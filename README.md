@@ -1,4 +1,4 @@
-  <h3>BOOKS' recommender, based on SVD algorithm .<h3>
+  <h1>BOOKS' recommender, based on SVD algorithm .</h1>
 
   <h2> Online data for books from Amazon along with user ratings and users who bought them. 3 files csv.  
 Ratings are expressed on a scale from 1-10 (higher values denoting higher appreciation).
